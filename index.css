@@ -1,5 +1,5 @@
 body {
-  background-image: url(Fundo.png);
+  background-image: url Fundo.png;
 }
 .logo {
   height: 50vh;
@@ -40,4 +40,5 @@ h3 {
   border-radius: 110%;
   text-align: center;
 }
+
 
